@@ -1,14 +1,10 @@
 # Discord OCR Bot
 > Reads text from images then sends them back as text on discord.
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 
 ![](header.png)
 
 ## Installation
-# You need to install ts-node and nodemon as global.
+### You need to install ts-node and nodemon as global.
 
 ```sh
 npm install -g ts-node
