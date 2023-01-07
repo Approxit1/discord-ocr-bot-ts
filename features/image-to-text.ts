@@ -27,7 +27,7 @@ export default (client: Client) => {
       await worker.terminate()
 
       console.log(text)
-      message.reply(text)
+      message.reply(`\`\`\`\n${text}\`\`\``)
     } catch (e) {
       console.error(e)
     }
