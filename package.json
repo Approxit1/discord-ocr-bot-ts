@@ -14,7 +14,9 @@
     "axios": "^0.26.1",
     "discord.js": "^13.6.0",
     "dotenv": "^10.0.0",
+    "nodemon": "^2.0.20",
     "tesseract.js": "^2.1.5",
+    "tesseract.js-core": "^4.0.2",
     "wokcommands": "^1.5.3"
   },
   "devDependencies": {
