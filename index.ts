@@ -1,10 +1,3 @@
-// JAVASCRIPT IMPORTS:
-// const DJS = require('discord.js')
-// const { Intents } = DJS
-// const WOK = require('wokcommands')
-// const path = require('path')
-// require('dotenv/config')
-
 // TYPESCRIPT IMPORTS:
 import DJS, { Intents } from 'discord.js'
 import WOK from 'wokcommands'
