@@ -1,12 +1,6 @@
-// JAVASCRIPT IMPORTS:
-// const { createWorker } = require('tesseract.js')
-
 // TYPESCRIPT IMPORTS:
 import { Client } from 'discord.js'
 import { createWorker } from 'tesseract.js'
-
-// JAVASCRIPT EXPORTS:
-// module.exports = (client) => {}
 
 // TYPESCRIPT EXPORTS:
 export default (client: Client) => {
@@ -33,12 +27,6 @@ export default (client: Client) => {
     }
   })
 }
-
-// JAVASCRIPT EXPORTS:
-// module.exports.config = {
-//   dbName: 'IMAGE_TO_TEXT',
-//   displayName: 'Image to Text',
-// }
 
 // TYPESCRIPT EXPORTS:
 export const config = {
